@@ -212,17 +212,5 @@ To run the full application (Backend + Frontend):
     npm run dev
     ```
 
----
 
-## 📌 Project Visuals
-
-### Training Performance
-![Training vs Validation Loss](plots/training_validation_curve.png)
-![Training Accuracy](plots/training_accuracy_curve.png)
-
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
-### Frontend Interface
-*(Screenshots of the frontend pages would appear here)*
 
